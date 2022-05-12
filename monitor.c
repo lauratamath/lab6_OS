@@ -1,3 +1,13 @@
+// ------------------------------------
+// Universidad del Valle de Guatemala
+// Sistemas Operativos
+// Martín España 
+// Laura Tamath
+// Diego Álvarez
+// Alejandra Gudiel
+// ------------------------------------
+
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -8,15 +18,6 @@
 
 #define TOTAL_THREADS 8
 #define MAX_DEPHT 50
-
-// ------------------------------------
-// Universidad del Valle de Guatemala
-// Sistemas Operativos
-// Martín España 
-// Laura Tamath
-// Diego Álvarez
-// Alejandra Gudiel
-// ------------------------------------
 
 struct myFile {
     FILE* file;

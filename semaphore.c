@@ -1,3 +1,12 @@
+// ------------------------------------
+// Universidad del Valle de Guatemala
+// Sistemas Operativos
+// Martín España 
+// Laura Tamath
+// Diego Álvarez
+// Alejandra Gudiel
+// ------------------------------------
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -9,14 +18,6 @@
 #define CANT_THREADS 8
 #define MAX_DEPHT 50
 
-// ------------------------------------
-// Universidad del Valle de Guatemala
-// Sistemas Operativos
-// Martín España 
-// Laura Tamath
-// Diego Álvarez
-// Alejandra Gudiel
-// ------------------------------------
 
 void *thread_simulation(void *value) {
     for (int i = 0; i < MAX_DEPHT; i++) {
