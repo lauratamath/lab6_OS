@@ -1,0 +1,2018 @@
+Initialized monitor
+>> Inicio: >> Creado threads: Inicia el thread: 2307
+Iters: 1
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 2
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 3
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+Inicia el thread: 2306
+Iters: 1
+2306 >> Tomando el recurso: 
+2307 >> El recurso usado: 
+2306 >> Usando el recurso: 
+2307 >> El recurso que devuelve es: 
+Iters: 4
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+Inicia el thread: 2305
+Iters: 1
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 2
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 3
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 4
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+Inicia el thread: 2304
+Iters: 1
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+Inicia el thread: 2302
+Iters: 1
+Inicia el thread: 2300
+Iters: 1
+Inicia el thread: 2303
+Iters: 1
+Inicia el thread: 2301
+Iters: 1
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 5
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 6
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 7
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 2
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 3
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 4
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2305 >> El recurso que devuelve es: 
+Iters: 8
+2307 >> El recurso usado: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+2307 >> El recurso que devuelve es: 
+Iters: 5
+Iters: 5
+2302 >> Tomando el recurso: 
+2307 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2307 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 6
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 7
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 8
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 9
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 10
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 11
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 12
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 13
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 6
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 7
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 8
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 9
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 10
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 2
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 3
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 4
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 5
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 6
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 7
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 8
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 9
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 10
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 11
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 9
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 10
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 11
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 12
+2304 >> El recurso que devuelve es: 
+Iters: 12
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 14
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 15
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 13
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 14
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 15
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 16
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 17
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 18
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 19
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 13
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2305 >> El recurso que devuelve es: 
+Iters: 20
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 16
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 11
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 12
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 13
+2304 >> El recurso que devuelve es: 
+Iters: 14
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 2
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 3
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 4
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 15
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 16
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 17
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 18
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 19
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 20
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 21
+2307 >> Tomando el recurso: 
+2306 >> El recurso que devuelve es: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 14
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 15
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 16
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 17
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 18
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 19
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 20
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 21
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 22
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 23
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 24
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 25
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 26
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 27
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 28
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 29
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 30
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 31
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 32
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 33
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 34
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 35
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 36
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 37
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 38
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 39
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 40
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 41
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 42
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 43
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 44
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 45
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 46
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 47
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 48
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 49
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+Iters: 50
+2307 >> Tomando el recurso: 
+2307 >> Usando el recurso: 
+2307 >> El recurso usado: 
+2307 >> El recurso que devuelve es: 
+2307 >> Terminando el uso del semáforo 
+2307 >> Terminando el proceso2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 21
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 22
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 23
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 24
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 25
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 26
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 27
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 28
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 29
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 30
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 31
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 32
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 33
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 34
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 35
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 36
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 22
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 23
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 24
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 25
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 26
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 27
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 28
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 29
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 30
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 31
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 32
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 33
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 34
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 35
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 36
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 37
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 38
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 39
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 40
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+Iters: 5
+2303 >> Tomando el recurso: 
+2305 >> El recurso usado: 
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 41
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2304 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 17
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2304 >> El recurso que devuelve es: 
+Iters: 42
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 43
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 2
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 3
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 4
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 6
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 7
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 8
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 9
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+Iters: 44
+2306 >> El recurso usado: 
+2304 >> Tomando el recurso: 
+2306 >> El recurso que devuelve es: 
+Iters: 10
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 18
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 19
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2300 >> El recurso que devuelve es: 
+Iters: 5
+2303 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 20
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 21
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 22
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 23
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+2300 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 45
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 46
+2304 >> Tomando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 11
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 12
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 13
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2304 >> Usando el recurso: 
+Iters: 24
+2305 >> El recurso que devuelve es: 
+Iters: 37
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 14
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 15
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 16
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 17
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 18
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2300 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 47
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 48
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 49
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 6
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 7
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 8
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 9
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 10
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+Iters: 50
+2304 >> Tomando el recurso: 
+2304 >> Usando el recurso: 
+2304 >> El recurso usado: 
+2304 >> El recurso que devuelve es: 
+2304 >> Terminando el uso del semáforo 
+2304 >> Terminando el proceso2300 >> El recurso que devuelve es: 
+Iters: 11
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 12
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 13
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 14
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 15
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 16
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 17
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 18
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 19
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 20
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 21
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 22
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 19
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 20
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 21
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 22
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 23
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 25
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 26
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 27
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 28
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 29
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 30
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 31
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2301 >> Tomando el recurso: 
+2302 >> El recurso que devuelve es: 
+Iters: 32
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 33
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 34
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 35
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2306 >> El recurso que devuelve es: 
+Iters: 24
+2302 >> El recurso usado: 
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2302 >> El recurso que devuelve es: 
+Iters: 36
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 37
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 38
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 39
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+2300 >> El recurso usado: 
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2300 >> El recurso que devuelve es: 
+Iters: 23
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 2
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 3
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 4
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 5
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 6
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 7
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 25
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 8
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2301 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 26
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 27
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 24
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+Iters: 40
+2300 >> El recurso usado: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 28
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 29
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2300 >> El recurso que devuelve es: 
+Iters: 25
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 41
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 42
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 43
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 44
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 45
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 46
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 47
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 48
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 49
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 2
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 3
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 4
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 5
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 6
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 7
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+Iters: 50
+2302 >> Tomando el recurso: 
+2302 >> Usando el recurso: 
+2306 >> El recurso que devuelve es: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 9
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 10
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+Iters: 30
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 31
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 32
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 33
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2303 >> El recurso que devuelve es: 
+Iters: 11
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 26
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 27
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 28
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 29
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 30
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 31
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 32
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 33
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 34
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 35
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 36
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 37
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 38
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2302 >> El recurso usado: 
+2302 >> El recurso que devuelve es: 
+2302 >> Terminando el uso del semáforo 
+2302 >> Terminando el proceso2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 12
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 13
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 14
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 15
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 16
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 17
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 18
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 39
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 40
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 41
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 42
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 43
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 44
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 45
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 46
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 47
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 48
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 49
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+Iters: 50
+2300 >> Tomando el recurso: 
+2300 >> Usando el recurso: 
+2300 >> El recurso usado: 
+2300 >> El recurso que devuelve es: 
+2300 >> Terminando el uso del semáforo 
+2300 >> Terminando el proceso2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 19
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 20
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 21
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 22
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 23
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 24
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 25
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 26
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 27
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 28
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 29
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 30
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 31
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 32
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 33
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 34
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 35
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 36
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 37
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 38
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 39
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 40
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 41
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 42
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 43
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 44
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 45
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 46
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 47
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 48
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 49
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+Iters: 50
+2303 >> Tomando el recurso: 
+2303 >> Usando el recurso: 
+2303 >> El recurso usado: 
+2303 >> El recurso que devuelve es: 
+2303 >> Terminando el uso del semáforo 
+2303 >> Terminando el proceso2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 8
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 9
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 10
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 11
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 12
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 13
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 14
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 15
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 16
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 17
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 18
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 19
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 20
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 34
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 21
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 38
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 39
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 40
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 35
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 41
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 42
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 43
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 44
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 22
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 23
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 24
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 36
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 37
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 38
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 39
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 40
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 41
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 42
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 43
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 44
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 45
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 46
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 47
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 48
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 49
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+Iters: 50
+2306 >> Tomando el recurso: 
+2306 >> Usando el recurso: 
+2306 >> El recurso usado: 
+2306 >> El recurso que devuelve es: 
+2306 >> Terminando el uso del semáforo 
+2306 >> Terminando el proceso2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 45
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 46
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 47
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 48
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 49
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+Iters: 50
+2305 >> Tomando el recurso: 
+2305 >> Usando el recurso: 
+2305 >> El recurso usado: 
+2305 >> El recurso que devuelve es: 
+2305 >> Terminando el uso del semáforo 
+2305 >> Terminando el proceso2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 25
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 26
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 27
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 28
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 29
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 30
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 31
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 32
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 33
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 34
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 35
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 36
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 37
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 38
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 39
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 40
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 41
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 42
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 43
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 44
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 45
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 46
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 47
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 48
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 49
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+Iters: 50
+2301 >> Tomando el recurso: 
+2301 >> Usando el recurso: 
+2301 >> El recurso usado: 
+2301 >> El recurso que devuelve es: 
+2301 >> Terminando el uso del semáforo 
+2301 >> Terminando el proceso
